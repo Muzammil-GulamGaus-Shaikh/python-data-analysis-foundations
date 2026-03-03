@@ -19,20 +19,6 @@ The focus is on writing logic manually (without relying on built-in shortcuts) t
 
 ---
 
-## 📂 Project Structure
-
-python-data-analysis-foundations/
-│
-├── level_1_core_logic/
-│   └── sales_and_basic_practice.py
-│
-├── level_2_analyst_thinking/
-│   └── transaction_filter.py
-│
-└── README.md
-
----
-
 ## 🔹 Level 1 – Core Logic
 
 Covers:
